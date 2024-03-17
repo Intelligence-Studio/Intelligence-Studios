@@ -21,5 +21,8 @@
     <a href="https://www.curseforge.com/members/pmulberry/projects">
       <p>PMulberry on CurseForge</p>
     </a>
+    <a href="https://www.youtube.com/@IntelligencStudios">
+      <p>Official YouTube channel</p>
+    </a>
   </body>
 </html>
