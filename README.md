@@ -12,5 +12,14 @@
     <a href="https://discord.gg/PnZ79mGx27">
       <p style=“text-align: center“><img src="https://cdn.modrinth.com/data/cached_images/064f867a3346ce3213081694903722b7c582bee1.png" alt="Join our discord"></p>
     </a>
+    <a href="https://modrinth.com/organization/intelligence-studios">
+      <p>Intelligence Studios on Modrinth</p>
+    </a>
+    <a href="https://www.curseforge.com/members/northoff/projects">
+      <p>Northoff on CurseForge</p>
+    </a>
+    <a href="https://www.curseforge.com/members/pmulberry/projects">
+      <p>PMulberry on CurseForge</p>
+    </a>
   </body>
 </html>
